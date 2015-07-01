@@ -8,3 +8,7 @@ OneTimeSecret API with PHP Backend. Code used with [SecretShare](https://marketp
 * libapache2-mod-php5
 
 Or more simply install LAMP on your backend server and host this on that.
+
+## License
+
+[MIT](https://tldrlegal.com/license/mit-license)
